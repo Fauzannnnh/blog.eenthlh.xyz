@@ -39,7 +39,7 @@ module.exports = {
             }
 
         ],
-        logo: '/img/logo-name.svg'
+        logo: '/img/logo-name.png'
     },
     head: [
         ['meta', { name: 'keywords', content: "Entahlah blog by Fauzan" }],
