@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: img/banner-web.jpg
+heroImage: img/banner.jpg
 heroAlt: Banner
 heroText: Entahlah Blog
 tagline: Ini adalah blog yang tercipta dari ketidaksengajaan author nya.
