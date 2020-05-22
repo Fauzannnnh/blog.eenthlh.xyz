@@ -52,7 +52,7 @@ module.exports = {
         ['meta', { property: 'og:title', content: "Entahlah blog &bull; Blog by Fauzan" }],
         ['meta', { property: 'og:description', content: "Blog ini tercipta dari ketidaksengajaan author nya" }],
         ['meta', { property: 'og:url', content: "https://eenthlh.xyz" }],
-        ['meta', { property: 'og:site_name', content: "Rizky Fauzan Hanif blog dan kehidupannya" }],
+        ['meta', { property: 'og:site_name', content: "Entahlah Blog" }],
         ['meta', { property: 'og:image', content: "https://eenthlh.xyz/img/banner.jpg" }],
         ['meta', { property: 'og:image:secure_url', content: "https://eenthlh.xyz/img/banner.jpg" }],
         ['meta', { property: 'og:image:width', content: "1200" }],
