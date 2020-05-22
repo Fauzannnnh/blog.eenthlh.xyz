@@ -1,0 +1,16 @@
+{
+  "directories": {
+    "src": "src"
+  },
+  "scripts": {
+    "dev": "vuepress dev src --temp .temp",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.4.0",
+    "vuepress": "^1.4.0"
+  },
+  "dependencies": {
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}

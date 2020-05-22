@@ -1,0 +1,38 @@
+{
+	"name" : "Entahlah Blog by Fauzan",
+	"short_name" : "Entahlah Blog - Fauzan",
+	"description" : "Lorem ipsum",
+	"start_url" : "/",
+	"display" : "standalone",
+	"orientation" : "portrait",
+	"icons": [
+		{
+		  "src": "img/icon-128.png",
+		  "sizes": "128x128",
+		  "type": "image/png"
+		},
+		{
+		  "src": "img/icon-144x144.png",
+		  "sizes": "144x144",
+		  "type": "image/png"
+		},
+		{
+		  "src": "img/icon-152x152.png",
+		  "sizes": "152x152",
+		  "type": "image/png"
+		},
+		{
+		  "src": "img/icon-192x192.png",
+		  "sizes": "192x192",
+		  "type": "image/png"
+		},
+		{
+		  "src": "img/icon-512x512.png",
+		  "sizes": "512x512",
+		  "type": "image/png"
+		}
+	  ],
+	"lang" : "Indonesian",
+	"background_color": "#292a2d",
+  	"theme_color": "#292a2d"
+}
