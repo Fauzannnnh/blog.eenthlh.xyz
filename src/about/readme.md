@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: img/banner.jpg
+heroImage: https://eenthlh.xyz/img/banner.jpg
 heroAlt: Banner
 heroText: Rizky Fauzan Hanif
 tagline: Normal human.
