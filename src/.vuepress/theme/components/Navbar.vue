@@ -12,12 +12,12 @@
         :src="$withBase($site.themeConfig.logo)"
         :alt="$siteTitle"
       >
-      <!-- <span
+      <span
         v-if="$siteTitle"
         ref="siteName"
         class="site-name"
         :class="{ 'can-hide': $site.themeConfig.logo }"
-      >{{ $siteTitle }}</span> -->
+      >{{ $siteTitle }}</span>
     </RouterLink>
 
     <div
