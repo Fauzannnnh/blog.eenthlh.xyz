@@ -22,7 +22,7 @@ const feed_options = {
 
 module.exports = {
     dest: 'public',
-    title: 'Entahlah Blog - Fauzan',
+    title: 'Entahlah Blog',
     description: 'Blog ini tercipta oleh ketidaksengajaan author nya.',
     themeConfig: {
         nav: [{
