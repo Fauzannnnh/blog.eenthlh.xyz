@@ -13,7 +13,7 @@
         :alt="$siteTitle"
       >
       <span
-        v-if="$siteTitle"
+        v-if="$site.themeConfig.title"
         ref="siteName"
         class="site-name"
         :class="{ 'can-hide': $site.themeConfig.logo }"
