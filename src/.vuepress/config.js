@@ -40,7 +40,7 @@ module.exports = {
 
         ],
         //logo: '/img/logo-name.png'
-        text: 'Entahlah Blog'
+        title: 'Entahlah Blog'
     },
     head: [
         ['meta', { name: 'keywords', content: "Entahlah blog by Fauzan" }],
