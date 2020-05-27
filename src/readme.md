@@ -1,18 +1,14 @@
 ---
 home: true
 heroImage: img/banner.jpg
-heroAlt: Banner
+heroAlt: banner.jpg
 heroText: Entahlah Blog
-tagline: Ini adalah blog yang tercipta dari ketidaksengajaan author nya.
+tagline: A blog written by Fauzan.
 actionText: My blog
 actionLink: /blog/
 features:
-  - title: Lorem ipsum dolor sit amet
-    details:
-  - title: Lorem ipsum dolor sit amet
-    details: 
-  - title: Lorem ipsum dolor sit amet
-    details:
+  - title: This website is open source.
+    details: See source code on my [github](https://github.com/Fauzannnnh/eenthlh.xyz)
 footer: Made with ♥️ by Fauzan
 pageClass: homepage
 ---
