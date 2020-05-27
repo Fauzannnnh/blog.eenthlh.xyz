@@ -23,7 +23,7 @@ const feed_options = {
 module.exports = {
     dest: 'public',
     title: 'Entahlah Blog',
-    description: 'Blog ini tercipta oleh ketidaksengajaan author nya.',
+    description: 'A blog written by Fauzan.',
     themeConfig: {
         nav: [{
                 text: 'Home',
@@ -51,7 +51,7 @@ module.exports = {
         ['meta', { property: 'og:locale', content: "en_id" }],
         ['meta', { property: 'og:type', content: "website" }],
         ['meta', { property: 'og:title', content: "Entahlah blog &bull; Blog by Fauzan" }],
-        ['meta', { property: 'og:description', content: "Blog ini tercipta dari ketidaksengajaan author nya" }],
+        ['meta', { property: 'og:description', content: "A blog written by Fauzan" }],
         ['meta', { property: 'og:url', content: "https://eenthlh.xyz" }],
         ['meta', { property: 'og:site_name', content: "Entahlah Blog" }],
         ['meta', { property: 'og:image', content: "https://eenthlh.xyz/img/banner.jpg" }],
@@ -60,10 +60,10 @@ module.exports = {
         ['meta', { property: 'og:image:height', content: "630" }],
         ['meta', { property: 'og:profile:first_name', content: "Rizky" }],
         ['meta', { property: 'og:profile:last_name', content: "Fauzan" }],
-        ['meta', { property: 'og:profile:username', content: "vzrenggamani" }],
+        ['meta', { property: 'og:profile:username', content: "Fauzannnnh" }],
         ['meta', { property: 'article:author', content: "https://facebook.com/fauzannnnh" }],
         ['meta', { name: 'twitter:card', content: "summary_large_image" }],
-        ['meta', { name: 'twitter:description', content: "Blog yang dibuat oleh ketidaksengajaan author nya" }],
+        ['meta', { name: 'twitter:description', content: "A blog written by Fauzan" }],
         ['meta', { name: 'twitter:title', content: "Entahlah blog &bull; Blog by fauzan" }],
         ['meta', { name: 'twitter:site', content: "@eenthlh" }],
         ['meta', { name: 'twitter:creator', content: "Rizky Fauzan Hanif" }],
