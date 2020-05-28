@@ -7,10 +7,12 @@ tagline: A blog written by Fauzan.
 actionText: My blog
 actionLink: /blog/
 features:
-  - title: This website is open source.
-    details: See source code on my github.
-  - title: blog under MIT license.
-    details: see license on my source code.
+  - title: This website is open source
+    details: See source code on my Github.
+  - title: Blog under MIT license
+    details: See license on my source code in Github.
+  - title: Blog under development
+    details: Blog under development by me on Github.
 footer: Made with ♥️ by Fauzan
 pageClass: homepage
 ---
