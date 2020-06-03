@@ -4,5 +4,5 @@
 
 <hr>
 Repository under MIT License (see the LICENSE file to see the license terms)
-<br>
+<br><br>
 Made with ♥️ by Fauzannnnh.
