@@ -1,5 +1,5 @@
 ---
-title: "Contacts Me!"
+title: "Contact Me!"
 draft: false
 date: 2020-5-21
 author: "Rizky Fauzan Hanif"
@@ -15,7 +15,7 @@ type: post
 [Rizky Fauzan Hanif (@eenthlh)](https://twitter.com/eenthlh)
 
 **GitHub**<br>
-[Rizky Fauzan Hanif (@fauzannnnh)](https://github.com/fauzannnnh)
+[Meong (@fauzannnnh)](https://github.com/fauzannnnh)
 
 **GitLab**<br>
 [Rizky Fauzan Hanif (@fauzannnnh)](https://gitlab.com/fauzannnnh)
