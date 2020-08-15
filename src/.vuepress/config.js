@@ -25,7 +25,12 @@ module.exports = {
     title: 'Entahlah Blog',
     description: 'A blog written by Fauzan.',
     themeConfig: {
-        nav: [{
+        nav: [
+            {
+                text: 'Website',
+                link: 'https://eenthlh.xyz'
+            },
+            {
                 text: 'Home',
                 link: '/'
             },
@@ -36,6 +41,10 @@ module.exports = {
             {
                 text: 'About',
                 link: '/about/'
+            },
+            {
+                text: 'Contact',
+                link: '/about/contact'
             }
 
         ],
