@@ -1,9 +1,9 @@
 ---
-title: "Contact Me!"
-draft: false
-date: 2020-5-21
-author: "Rizky Fauzan Hanif"
-type: post
+home: true
+heroText: Contact me
+tagline: List of my contacts
+footer: Made with ♥️ by Fauzan
+pageClass: contact
 ---
 
 # Personal Account
