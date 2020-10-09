@@ -1,3 +1,5 @@
 ---
-layouts: 404
+layout: 404
 ---
+# Error 404
+> [Back to Home](/)
