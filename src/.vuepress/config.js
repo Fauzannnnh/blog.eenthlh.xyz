@@ -83,7 +83,13 @@ module.exports = {
     plugins: [
         ['@vuepress/google-analytics', { 'ga': 'UA-164440520-1' }],
         ['feed', feed_options ],
-        ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }]
+        [
+         '@vuepress/pwa',
+         {
+           serviceWorker: true,
+           updatePopup: true
+         }
+        ], 
         ['sitemap', { hostname: 'https://blog.eenthlh.xyz/'}]
     ]
 }
