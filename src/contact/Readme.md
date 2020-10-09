@@ -1,11 +1,10 @@
 ---
 home: true
 heroText: Contact Me!
+tagline: My contact list
 footer: Made with ♥️ by Fauzan
 pageClass: contact
 ---
-
-# Personal Account
 
 **Email**<br>
 [contact@eenthlh.xyz](mailto:contact@eenthlh.xyz)
