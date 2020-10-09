@@ -1,7 +1,6 @@
 ---
 home: true
-heroText: Contact me
-tagline: List of my contacts
+heroText: Contact Me!
 footer: Made with ♥️ by Fauzan
 pageClass: contact
 ---
