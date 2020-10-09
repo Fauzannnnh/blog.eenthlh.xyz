@@ -21,6 +21,7 @@ const feed_options = {
 };
 
 module.exports = {
+    serviceWorker: true,
     dest: 'public',
     title: 'Entahlah Blog',
     description: 'A blog written by Fauzan.',
