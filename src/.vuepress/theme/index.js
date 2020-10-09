@@ -27,8 +27,6 @@ module.exports = (options, ctx) => {
       ['@vuepress/active-header-links', options.activeHeaderLinks],
       '@vuepress/search',
       '@vuepress/plugin-nprogress',
-      ['feed', feed_options ],
-      ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }],
       ['container', {
         type: 'tip',
         defaultTitle: {
