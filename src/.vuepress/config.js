@@ -77,7 +77,7 @@ module.exports = {
         ['meta', { name: 'twitter:site', content: "@eenthlh" }],
         ['meta', { name: 'twitter:creator', content: "Rizky Fauzan Hanif" }],
         ['meta', { name: 'twitter:image', content: "https://blog.eenthlh.xyz/img/banner.jpg" }]
-        ['link', { rel: 'manifest', href: "manifest.webmanifest" }]
+        ['link', { rel: 'manifest', href: "/manifest.webmanifest" }]
     ],
     plugins: [
         ['@vuepress/google-analytics', { 'ga': 'UA-164440520-1' }],
