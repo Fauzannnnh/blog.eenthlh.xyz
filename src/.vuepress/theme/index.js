@@ -27,6 +27,8 @@ module.exports = (options, ctx) => {
       ['@vuepress/active-header-links', options.activeHeaderLinks],
       '@vuepress/search',
       '@vuepress/plugin-nprogress',
+      ['feed', feed_options ],
+      ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }],
       ['container', {
         type: 'tip',
         defaultTitle: {
@@ -53,9 +55,7 @@ module.exports = (options, ctx) => {
         before: info => `<details class="custom-block details">${info ? `<summary>${info}</summary>` : ''}\n`,
         after: () => '</details>\n'
       }],
-      ['smooth-scroll', enableSmoothScroll],
-      ['feed', feed_options ],
-      ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }]
+      ['smooth-scroll', enableSmoothScroll]
     ]
   }
 }
