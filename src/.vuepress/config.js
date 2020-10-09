@@ -44,7 +44,7 @@ module.exports = {
             },
             {
                 text: 'Contact',
-                link: '/about/contact'
+                link: '/contact/'
             }
 
         ],
