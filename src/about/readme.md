@@ -17,7 +17,7 @@ Sekaligus mengamalkan ilmu yang telah saya dapat agar bermanfaat bagi anda yang 
 
 Terima Kasih.
 
-Feel free to [Contact me](/about/contact).
+Feel free to [Contact me](/contact/).
 
 <style>
 .theme-default-content.custom {
