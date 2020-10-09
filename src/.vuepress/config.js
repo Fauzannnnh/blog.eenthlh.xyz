@@ -76,7 +76,7 @@ module.exports = {
         ['meta', { name: 'twitter:title', content: "Entahlah blog &bull; Blog by fauzan" }],
         ['meta', { name: 'twitter:site', content: "@eenthlh" }],
         ['meta', { name: 'twitter:creator', content: "Rizky Fauzan Hanif" }],
-        ['meta', { name: 'twitter:image', content: "https://blog.eenthlh.xyz/img/banner.jpg" }]
+        ['meta', { name: 'twitter:image', content: "https://blog.eenthlh.xyz/img/banner.jpg" }],
         ['link', { rel: 'manifest', href: "/manifest.webmanifest" }]
     ],
     plugins: [
