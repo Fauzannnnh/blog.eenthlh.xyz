@@ -1,9 +1,9 @@
 {
-	"name" : "Entahlah Blog by Fauzan",
-	"short_name" : "Entahlah Blog - Fauzan",
-	"description" : "Lorem ipsum",
+	"name" : "Entahlah Blog",
+	"short_name" : "Entahlah Blog",
+	"description" : "Lorem ipsum dolor sit amet.",
 	"start_url" : "/",
-	"display" : "standalone",
+	"display" : "minimal-ui",
 	"orientation" : "portrait",
 	"icons": [
 		{
