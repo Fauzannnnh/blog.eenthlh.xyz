@@ -53,7 +53,9 @@ module.exports = (options, ctx) => {
         before: info => `<details class="custom-block details">${info ? `<summary>${info}</summary>` : ''}\n`,
         after: () => '</details>\n'
       }],
-      ['smooth-scroll', enableSmoothScroll]
+      ['smooth-scroll', enableSmoothScroll],
+      ['feed', feed_options ],
+      ['@vuepress/pwa', { serviceWorker: true, updatePopup: true }]
     ]
   }
 }
