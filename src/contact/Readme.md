@@ -8,7 +8,7 @@ footer: Made with ♥️ by Fauzan
 pageClass: contact
 ---
 
-<contact />
+
 
 **Email**<br>
 [contact@eenthlh.xyz](mailto:contact@eenthlh.xyz)
