@@ -85,7 +85,7 @@ module.exports = {
         ['@vuepress/google-analytics', { 'ga': 'UA-164440520-1' }],
         ['feed', feed_options ],
         [
-         '@vuepress/pwa',
+         '@vuepress/plugin-pwa',
          {
            serviceWorker: true,
            updatePopup: true
