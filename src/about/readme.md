@@ -1,5 +1,5 @@
 ---
-home: true
+about: true
 heroImage: /img/banner.jpg
 heroAlt: Banner
 heroText: Rizky Fauzan Hanif
