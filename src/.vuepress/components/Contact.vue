@@ -1,6 +1,6 @@
 <template>
   <main
-    class="about"
+    class="contact"
     aria-labelledby="main-title"
   >
     <header class="hero">
