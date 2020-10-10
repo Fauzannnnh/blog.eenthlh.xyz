@@ -1,5 +1,5 @@
 ---
-home: true
+contact: true
 heroText: Contact Me!
 tagline: My contact list
 footer: Made with ♥️ by Fauzan
