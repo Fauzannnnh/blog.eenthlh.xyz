@@ -1,5 +1,7 @@
 ---
 contact: true
+heroImage: /img/banner.jpg
+heroAlt: Banner
 heroText: Contact Me!
 tagline: My contact list
 footer: Made with ♥️ by Fauzan
