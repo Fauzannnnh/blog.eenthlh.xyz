@@ -7,8 +7,7 @@ tagline: My contact list
 footer: Made with ♥️ by Fauzan
 pageClass: contact
 ---
-
-
+# Contact Me!
 
 **Email**<br>
 [contact@eenthlh.xyz](mailto:contact@eenthlh.xyz)
