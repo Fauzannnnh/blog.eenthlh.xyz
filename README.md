@@ -1,6 +1,6 @@
-# blog.eenthlh.xyz
+# eenthlh.xyz
 
-**This is a repository of my [blog](https://blog.eenthlh.xyz)**
+This is a repository of my [blog](https://eenthlh.xyz)
 
 <hr>
 Repository under MIT License (see the LICENSE file to see the license terms)
